@@ -1,0 +1,26 @@
+body{
+    font-weight: bold;
+    font-family: cursive;
+    background-color: black;
+}
+
+input{
+    border-radius: 5px;
+    
+}
+
+#dv{
+ align-items: center;
+ background-color: rgb(239, 240, 240);
+ width: 350px;
+ margin: 0 auto;
+ padding: 20px;
+ margin-top: 50px;
+ border-radius: 5px;
+}
+
+#dvv button{
+    background-color: beige;
+    font-weight: bold;
+    border-radius: 5px;
+}
